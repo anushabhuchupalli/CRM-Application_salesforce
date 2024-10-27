@@ -1,0 +1,26 @@
+.slds-box {
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #d8dde6;
+    border-radius: 5px;
+    background-color: #f4f6f9;
+}
+
+h1 {
+    color: #0070d2; /* Salesforce blue */
+    margin-bottom: 10px;
+}
+
+.slds-text-align_left {
+    text-align: left;
+}
+
+.slds-grid {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -0.5rem; /* Add spacing between columns */
+}
+
+.slds-col {
+    padding: 0 0.5rem; /* Add padding to columns */
+}
